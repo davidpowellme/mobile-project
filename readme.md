@@ -56,7 +56,7 @@ Brett Davis is sitting at a stoplight on his way back from lunch. He's going str
 **3 taps and he's done using the app**
 
 ##User Scenario: Feature
-Jane Perkins wants to schedule a new practice, but she only wants pitchers and catchers to be there (they need some work). She needs to be able to notify only some of the team, specifically the pitchers and catchers. The apps has a feature which allows users to create groups in from their player directory and select those groups to receive updates.
+Jane Perkins wants to schedule a new practice, but she only wants pitchers and catchers to be there (they need some work). She needs to be able to notify only some of the team, specifically the pitchers and catchers. The app has a feature which allows users to create groups in from their player directory and select those groups to receive updates.
 
 Jane Perkins wants to share a video she found on pitching. The app has a wall/feed/channel for this and Jane can alert ONLY pitchers by selecting their groups to receive the notification from the channel (Slack style).
 
