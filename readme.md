@@ -60,4 +60,57 @@ Jane Perkins wants to schedule a new practice, but she only wants pitchers and c
 
 Jane Perkins wants to share a video she found on pitching. The app has a wall/feed/channel for this and Jane can alert ONLY pitchers by selecting their groups to receive the notification from the channel (Slack style).
 
+##Inspiration Apps
+
+###Snapchat 
+[app page](https://itunes.apple.com/us/app/snapchat/id447188370?mt=8)
+**The Good**
+- Easy
+    + There aren't many options
+    + The options you want are there immediately and happen fast
+    + The thumb stays in the easy flow zone
+    + slide in and out of main screens
+- Sharing is fast and user-friendly
+    + If the user has an update to share, they can choose whether to add text, filters, and draw on the photo, but they are never far removed from simply sharing it, and the other options don't get in the way
+    + Easy to select groups and single other users to share to
+
+**The Bad**
+- This app basically does one thing really well, so for a multi-functional app like mine, it's not totally analogous.
+
+###GameChanger
+[app page](https://itunes.apple.com/us/app/gamechanger-baseball-softball/id318906314?mt=8)
+**The Good**
+- Uses prompts super well
+- The user is given a list of options that have them merely asking questions instead of having to know what's going in terms of the scorebook
+- Separates stats display into Batting, Pitching, and Fielding
+- Allows users to play a demo game without signing up
+
+**The Bad**
+- There's too much going on for it to be how I'll track stats with my app. It's a stats app for baseball, not a team management app with stats built in.
+
+###Team Snap
+[app page](https://itunes.apple.com/us/app/teamsnap-sports-team-management/id393048976?mt=8)
+**The Good**
+- Gives users prompts and feedback at every interaction
+- Movement makes sense (left to right)
+- The main page is a comprehensive menu -- it's easy to find where you need to be to do what you want to with the app. Nothing goes very deep.
+
+**The Bad**
+- Requires you to confirm email before you can use app
+- Email prompts you to set everything up from web app
+- Tons of questions to get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
