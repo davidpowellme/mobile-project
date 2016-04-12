@@ -47,3 +47,17 @@ The app displays the information about the schedule change (ie whether the game 
 ###3. User notifies team
 Following the CTA takes users to a default message containing the most important details of the update. The user can then add more information if desired or just tap send and be done. The team member's information is stored in a directory in the app, so the message is sent as texts or emails to them.
 
+##User Scenario: Flow
+Brett Davis is sitting at a stoplight on his way back from lunch. He's going straight to a meeting with his boss, and he's already running late. The meeting will last up until he leaves for his game tonight, and he won't be able to check his phone during the meeting. He gets a notification that there is a league update. He taps the notification and is taken directly to a page with the information that the game is canceled due to a sinkhole around home plate. Brett notifies team with the default message and is done with the app before the light has turned green.
+- notification
+- info
+- send update to team
+
+**3 taps and he's done using the app**
+
+##User Scenario: Feature
+Jane Perkins wants to schedule a new practice, but she only wants pitchers and catchers to be there (they need some work). She needs to be able to notify only some of the team, specifically the pitchers and catchers. The apps has a feature which allows users to create groups in from their player directory and select those groups to receive updates.
+
+Jane Perkins wants to share a video she found on pitching. The app has a wall/feed/channel for this and Jane can alert ONLY pitchers by selecting their groups to receive the notification from the channel (Slack style).
+
+
